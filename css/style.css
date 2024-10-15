@@ -6,14 +6,15 @@
 img{
     display: block;
     max-width: 100%;
+    height: 600px;
 }
 
-main {
+/* main {
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 20px;
-}
+} */
 
 .secCard {
     border:4px black solid;
@@ -21,7 +22,10 @@ main {
 
 .imgContainer {
     border: 5px orange solid;
-    width: 100px;
+    width: 1000px;
+}
+.cardContainer {
+    display:flex;
 }
 
 .divDetailsContainer{
