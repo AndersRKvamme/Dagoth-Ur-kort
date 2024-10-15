@@ -9,6 +9,23 @@ img{
     max-width: 100%;
 }
 
+.secCard {
+    border:4px black solid;
+}
+
 .imgContainer {
-    
+    border: 5px orange solid;
+    width: 100px;
+}
+
+.divDetailsContainer{
+    border: 1px black solid;    
+}
+.divItem{
+ 
+    border: 1px black solid;    
+}
+
+.pInfo{
+    border: 1px black solid;    
 }
